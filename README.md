@@ -1,4 +1,4 @@
-# Panorama_Covid-19_Brasil
+# Panorama_Covid-19
 
 <p align="center">
   <img alt="Analisando Airbnb" width="45%" src="covid.png">
