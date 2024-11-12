@@ -1,4 +1,4 @@
-# Panorama_Covid-19
+# Panorama_Covid-19 até 2024
 
 <p align="center">
   <img alt="Analisando Airbnb" width="45%" src="covid.png">
